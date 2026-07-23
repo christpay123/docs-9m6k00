@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://support.securo-net.de/sitemap.xml
